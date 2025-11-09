@@ -24,6 +24,5 @@ This repository contains a GitHub Actions workflow that demonstrates a multi-pla
 
 ## Contact
 
-If you need help integrating this workflow into your repository, email: **your.email@example.com**
+If you need help integrating this workflow into your repository, email: **23f3002144@ds.study.iitm.ac.in**
 
-> **Important:** Replace `your.email@example.com` with your real email address before publishing the repository so the validator can find your contact info in the README.
